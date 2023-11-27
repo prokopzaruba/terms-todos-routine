@@ -38,12 +38,28 @@
   ],
   "routine": [
     {
-      "activity": "Something new",
-      "description": "do something",
-      "start": "10:53",
-      "end": "11:53",
+      "activity": "ranni povinnosti",
+      "description": "sprcha, snidane, priprava dne",
+      "start": "07:30",
+      "end": "08:30",
       "order": 10000,
       "id": 1
+    },
+    {
+      "activity": "vecerni aktivity",
+      "description": "zabava, sport, cas s prateli",
+      "start": "18:00",
+      "end": "21:00",
+      "order": 20000,
+      "id": 2
+    },
+    {
+      "activity": "pred spanim",
+      "description": "omezit technologie, cist",
+      "start": "22:00",
+      "end": "23:00",
+      "order": 30000,
+      "id": 3
     }
   ]
 }
