@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "task": "vynest odpadky",
+      "date": "",
+      "id": 1
+    },
+    {
+      "task": "vyndat mycku",
+      "date": "",
+      "id": 2
+    },
+    {
+      "task": "vyluxovat",
+      "date": "",
+      "id": 3
+    },
+    {
+      "task": "jit k zubarce",
+      "date": "2023-11-28",
+      "id": 4
+    },
+    {
+      "task": "domaci ukol ucetnicvi",
+      "date": "2023-11-30",
+      "id": 5
+    },
+    {
+      "task": "fotbal",
+      "date": "2023-11-25",
+      "id": 6
+    },
+    {
+      "task": "pohovor",
+      "date": "2023-11-20",
+      "id": 7
+    }
+  ],
+  "routine": [
+    {
+      "activity": "Something new",
+      "description": "do something",
+      "start": "10:53",
+      "end": "11:53",
+      "order": 10000,
+      "id": 1
+    }
+  ]
+}
